@@ -15,7 +15,7 @@ document.getElementById('imageUpload').addEventListener('change', async function
                 const response = await fetch('https://api.remove.bg/v1.0/removebg', {
                     method: 'POST',
                     headers: {
-                        'X-Api-Key': '9CaXvJsc5YjG44CXMtZKLi9R' 
+                        'X-Api-Key': 'no93MFBSAjNwH37vPKErBL9k' 
                     },
                     body: formData
                 });
