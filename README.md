@@ -25,3 +25,5 @@ This is a simple web application that allows users to upload an image, remove it
 2. Wait for the background removal process to finish.
 3. Once the background is removed, you will see the original and edited images side by side.
 4. Click on the "Download" button to download the edited image.
+
+This project is developed by <a href="https://github.com/azhardotcoder/">Azhar</a>.
